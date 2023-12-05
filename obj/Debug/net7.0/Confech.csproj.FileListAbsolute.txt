@@ -1,0 +1,14 @@
+C:\Users\APT02-63\Documents\Confech\obj\Debug\net7.0\Confech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT02-63\Documents\Confech\obj\Debug\net7.0\Confech.AssemblyInfoInputs.cache
+C:\Users\APT02-63\Documents\Confech\obj\Debug\net7.0\Confech.AssemblyInfo.cs
+C:\Users\APT02-63\Documents\Confech\obj\Debug\net7.0\Confech.csproj.CoreCompileInputs.cache
+C:\Users\APT02-63\Documents\Confech\bin\Debug\net7.0\Confech.exe
+C:\Users\APT02-63\Documents\Confech\bin\Debug\net7.0\Confech.deps.json
+C:\Users\APT02-63\Documents\Confech\bin\Debug\net7.0\Confech.runtimeconfig.json
+C:\Users\APT02-63\Documents\Confech\bin\Debug\net7.0\Confech.dll
+C:\Users\APT02-63\Documents\Confech\bin\Debug\net7.0\Confech.pdb
+C:\Users\APT02-63\Documents\Confech\obj\Debug\net7.0\Confech.dll
+C:\Users\APT02-63\Documents\Confech\obj\Debug\net7.0\refint\Confech.dll
+C:\Users\APT02-63\Documents\Confech\obj\Debug\net7.0\Confech.pdb
+C:\Users\APT02-63\Documents\Confech\obj\Debug\net7.0\Confech.genruntimeconfig.cache
+C:\Users\APT02-63\Documents\Confech\obj\Debug\net7.0\ref\Confech.dll
